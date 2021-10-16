@@ -7,7 +7,7 @@ A browser based guessing game created in vanilla javascript
 3. if using vscode extension right-click on the index.html file and select live-server from the list of options 
 
 you can paste this in your vscode command palatte to install the live-server extension
-ext install ritwickdey.LiveServer
+```ext install ritwickdey.LiveServer```
 
 ### How the game works
 1. when you just launch the game you are welcomed by a retro looking game interface
@@ -19,5 +19,5 @@ ext install ritwickdey.LiveServer
 7. with each attempt a score is recorded
 8. the game ends when you exhaust all rounds.
 
-feel free to make suggestions. am open minded. :)
-Enjoy !!! ^_^
+feel free to make suggestions. am open minded. 😂
+Enjoy !!! 😊
